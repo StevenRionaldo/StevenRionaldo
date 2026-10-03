@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Steven Rionaldo Tanuwijaya 👋
 
-<!--
-**StevenRionaldo/StevenRionaldo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science / Informatics Student | Software & Web Development Enthusiast 🚀
 
-Here are some ideas to get you started:
+A passionate tech enthusiast dedicated to building efficient, scalable, and user-centric web applications and software solutions. Constantly learning and exploring modern web technologies, AI/ML, and software architecture.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tech Stack & Skills
+Languages: C++, Python, JavaScript, HTML5, CSS3, PHP
+
+Web Development: Laravel, React, Tailwind CSS, Bootstrap, Node.js
+
+Machine Learning & AI: TensorFlow, PyTorch, Scikit-Learn
+
+Tools & Platforms: Git, GitHub, MySQL, VS Code, Unity
+
+🔭 Current Focus & Interests
+💻 Developing modern full-stack web applications.
+
+🤖 Exploring Machine Learning & Deep Learning concepts.
+
+🎮 Game Development with Unity.
+
+📈 Financial & Stock Market Tech Solutions.
+
+📊 GitHub Stats
+📫 Connect with Me
+LinkedIn: www.linkedin.com/in/stevenrionaldotanuwijaya
